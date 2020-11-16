@@ -1,5 +1,5 @@
 LibMol es un programa educativo de código abierto para la enseñanza de la biología estructural.  
-Se puede usar LibMol como un [programa en linea](https://libmol.org) (accesible sin instalación, mediante un navegador) ou como un [programa ejecutable mediante descarga](https://libmol.org/downloads).
+Se puede usar LibMol como un [programa en linea](https://libmol.org) (accesible sin instalación, mediante un navegador) o como un [programa ejecutable mediante descarga](https://libmol.org/downloads).
 
 ## Autor
 [Paul Pillot](mailto:paul.pillot@libmol.org) - Profesor de Ciencias de la Vida en el Collège International Marie de France (Montreal - Canada)
@@ -11,7 +11,7 @@ El código fuente se publica bajo una [lizencia libre GPL v3.0](https://www.gnu.
 ## Agradecimientos
 ### Contribuciones
 - Hervé Furstoss (documentación incrustada)
-- Philippe Cosentino, Sandrine Beaudin, Eric Jourdan, Valérie Rambaud,  Jacques Janin, Frédéric Labaune, Sandra Rodot, Sébastien Gruszka, Nazim Sellal, David Bard, Mélanie Fenaert por sus muchos tests y segerencias
+- Philippe Cosentino, Sandrine Beaudin, Eric Jourdan, Valérie Rambaud,  Jacques Janin, Frédéric Labaune, Sandra Rodot, Sébastien Gruszka, Nazim Sellal, David Bard, Mélanie Fenaert por sus muchos tests y sugerencias
 - Alexander Rose, autor principal de NGL por su esfuerzo en la creación de una biblioteca de visualización molecular potente, ágil y optimizada para la web.
 
 ### Datos moleculares
