@@ -13,8 +13,9 @@ O código fonte publícase suxeito a unha [lizenza libre GPL v3.0](https://www.g
 - Hervé Furstoss (documentación incrustada)
 - Philippe Cosentino, Sandrine Beaudin, Eric Jourdan, Valérie Rambaud,  Jacques Janin, Frédéric Labaune, Sandra Rodot, Sébastien Gruszka, Nazim Sellal, David Bard, Mélanie Fenaert polos seus moitos tests e suxestións
 - Alexander Rose, autor principal de NGL polo seu esforzo na creación dunha biblioteca de visualización molecular potente, áxil e optimizada para a web.
+- Xaime M González Ortega, polas traducións ao galego e ao español
 
-### Molecular data
+### Datos Moleculares
 - [Protein Data Bank](https://www.rcsb.org)  
 H.M. Berman, J. Westbrook, Z. Feng, G. Gilliland, T.N. Bhat, H. Weissig, I.N. Shindyalov, P.E. Bourne.
 (2000) _The Protein Data Bank_ [Nucleic Acids Research, 28: 235-242](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC102472/)
@@ -26,7 +27,7 @@ LibMol está baseado en varias valiosas bibliotecas ou servizos de acceso aberto
 - [NGL](https://github.com/arose/ngl) para a visualización 3D de modelos moleculares
   - AS Rose, AR Bradley, Y Valasatava, JM Duarte, A Prlić and PW Rose. _Web-based molecular graphics for large complexes._ ACM Proceedings of the 21st International Conference on Web3D Technology (Web3D '16): 185-186, 2016. [doi:10.1145/2945292.2945324](http://dx.doi.org/10.1145/2945292.2945324)
   - AS Rose and PW Hildebrand. _NGL Viewer: a web application for molecular visualization._ Nucl Acids Res (1 July 2015) 43 (W1): W576-W579 publicada por primeria vez en liña o 29 de April de 2015. [doi:10.1093/nar/gkv402](https://doi.org/10.1093/nar/gkv402)
-- [Vue.js](https://vuejs.org/) e o seu ecosistema para a infraestrutura de software
+- [Vue.js](https://vuejs.org/) e o seu ecosistema para infraestruturas de software
 - [Vuei18n](https://github.com/kazupon/vue-i18n): i18n plugin
 - [ElementUI](http://element.eleme.io/#/en-US): esquema de interfaz de usuario
 - [screenfull](https://www.npmjs.com/package/screenfull): asistencia para pantalla completa
