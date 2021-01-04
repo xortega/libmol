@@ -1,7 +1,7 @@
 # Colorear segundo a cadea
 Este esquema de cor usa unha cor diferente para cada cadea presente no modelo molecular.
 
-Os principais compoñentes de cadeas son:
+Os principais cadeas recoñecidas son:
 * [proteínas](lexicon-protein), formadas por unha ou máis cadeas de aminoácidos
 * [ácidos nucleicos](lexicon-nucleic) (ADN or ARN), formados por cadeas de nucleótidos
 
@@ -9,5 +9,5 @@ Os principais compoñentes de cadeas son:
 
 **Exemplo: proteína formada por 4 cadeas:**  
 ![Hemoglobina coloreada por cadeas](static/img/colochain.png)    
-As estiquetas da barra de estado, debaixo do marco de visualiación, listan as distintas cadeas polos seus IDs e as súas respectivas cores.  
-**Consello**: Manter o indicador sobre o nome das cadeas para mostrar o nome biolóxico completo e relevante da cadea (se é proporcionado polo ficheiro molecular)
+As etiquetas da barra de estado, debaixo do marco de visualización, listan as distintas cadeas polos seus IDs e as súas respectivas cores.  
+**Consello**: Manter o indicador sobre o nome das cadeas para mostrar o nome biolóxico completo e relevante da cadea (se este for proporcionado polo ficheiro molecular)
