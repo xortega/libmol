@@ -6,13 +6,13 @@ Se puede usar LibMol como un [programa en linea](https://libmol.org) (accesible 
 
 
 ## Licencia
-El código fonte se publica bajo unha [lizencia libre GPL v3.0](https://www.gnu.org/licenses/gpl.html). Es un programa de acceso libre, descargable y editable desde el seguinte [repositorio github](https://github.com/ppillot/libmol)
+El código fuente se publica bajo una [licencia libre GPL v3.0](https://www.gnu.org/licenses/gpl.html). Es un programa de acceso libre, descargable y editable desde el seguinte [repositorio github](https://github.com/ppillot/libmol)
 
 ## Agradecimientos
 ### Contribuciones
 - Hervé Furstoss (documentación incrustada)
 - Philippe Cosentino, Sandrine Beaudin, Eric Jourdan, Valérie Rambaud, Jacques Janin, Frédéric Labaune, Sandra Rodot, Sébastien Gruszka, Nazim Sellal, David Bard, Mélanie Fenaert por sus muchos tests y sugerencias.
-- Alexander Rose, autor principal de NGL por su esfouerzo en la creación de una biblioteca de visualización molecular potente, ágil y optimizada para la web.
+- Alexander Rose, autor principal de NGL por su esfuerzo en la creación de una biblioteca de visualización molecular potente, ágil y optimizada para la web.
 - Xaime M González Ortega por las traducciones al gallego y al español.
 
 ### Datos moleculares
@@ -27,7 +27,7 @@ LibMol está basado en varias valiosas bibliotecas o servicios de acceso abierto
 - [NGL](https://github.com/arose/ngl) para la visualización 3D de modelos moleculares
   - AS Rose, AR Bradley, Y Valasatava, JM Duarte, A Prlić and PW Rose. _Web-based molecular graphics for large complexes._ ACM Proceedings of the 21st International Conference on Web3D Technology (Web3D '16): 185-186, 2016. [doi:10.1145/2945292.2945324](http://dx.doi.org/10.1145/2945292.2945324)
   - AS Rose and PW Hildebrand. _NGL Viewer: a web application for molecular visualization._ Nucl Acids Res (1 July 2015) 43 (W1): W576-W579 publicada por primeria vez en liña o 29 de April de 2015. [doi:10.1093/nar/gkv402](https://doi.org/10.1093/nar/gkv402)
-- [Vue.js](https://vuejs.org/) y su ecosistema para la infraestrutura del programa
+- [Vue.js](https://vuejs.org/) y su ecosistema para la infraestructura del programa
 - [Vuei18n](https://github.com/kazupon/vue-i18n): i18n plugin
 - [ElementUI](http://element.eleme.io/#/en-US): esquema de interfaz de usuario
 - [screenfull](https://www.npmjs.com/package/screenfull): asistencia para pantalla completa
