@@ -1,17 +1,17 @@
-# Colorear segundo a natureza química
-Este esquema de coloración colorea os átomos de acordo coa natureza química do composto ao que pertencen  
+# Colorear según la naturaleza química
+Este esquema de coloración colorea los átomos de acuerdo con la naturaleza química del compuesto al que pertenecen.
 
-Os principais compostos identificados son:
-* proteínas,
-* ácidos nucleicos (ADN e ARN),
-* glícidos,
-* auga,
-* ións,
+Los principales compuestos identificados son:
+* proteinas,
+* ácidos nucleicos (ADN y ARN),
+* glúcidos,
+* agua,
+* iones,
 * [hétero átomos](lexicon-hetero).  
 
-**Exemplo de modelo molecular con compostos bioquímicos variados:**  
-![coloración segundo a natureza bioquímica](static/img/colonat.png)   
+**Ejemplo de modelo molecular con compuestos bioquímicos variados:**  
+![coloración según la naturaleza bioquímica](static/img/colonat.png)   
 
-Calquera átomo que non pertenza a unha categoría definida clasifícase como hétero. Este grupo é por tanto moi diverso.  
+Cualquier átomo que no pertenezca a una categoría definida se clasifica como hétero. Este grupo es por tanto muy diverso.  
 
-As etiquetas da barra de estado, debaixo do marco de visualización, especifican calquera natureza química presente no modelo e a súa cor correspondente.
+Las etiquetas de la barra de estado, debajo del marco de visualización, especifican cualquier naturaleza química presente en el modelo e su color correspondiente.
