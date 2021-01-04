@@ -1,16 +1,16 @@
 # Coloreado CPK (por elemento)
-Cada átomo coloréase de acordo co esquema convencional de coloración en química ([Coloración CPK](lexicon-cpk)). Este esquema distingue os diferentes elementos químicos que forman a molécula.
+Cada átomo se colorea de acuerdo con el esquema convencional de coloración en química ([Coloración CPK](lexicon-cpk)). Este esquema distingue los diferentes elementos químicos que forman la molécula.
 
-Símbolo | Código de cor | Elemento
+Símbolo | Código de color | Elemento
 ------------ | ------------- | -------------
 **C** | ![Carbono](static/img/c.png)| **Carbono**
-**H** | ![Hidróxeno](static/img/h.png) | **Hidróxeno**
-**O** | ![Oxíxeno](static/img/o.png) | **Oxíxeno** 
-**N** | ![Nitróxeno](static/img/n.png) | **Nitróxeno**
-**S** | ![Xofre](static/img/s.png) | **Xofre** 
+**H** | ![Hidrógeno](static/img/h.png) | **Hidrógeno**
+**O** | ![Oxígeno](static/img/o.png) | **Oxígeno** 
+**N** | ![Nitrógeno](static/img/n.png) | **Nitrógeno**
+**S** | ![Azufre](static/img/s.png) | **Azufre** 
 **P** | ![Fósforo](static/img/p.png) | **Fósforo** 
 
-**Coidado**, a maioría dos modelos macromoleculares non incúen **hidróxenos**, aínda que están presentes na molécula. As [Técnicas de determinación de estruturas](lexicon-technique) non poden, en xeral, resolver as coordenadas dos átomos de hidróxeno.  
+**Cuidado**, la maioría de los modelos macromoleculares no inclúen **hidróxenos**, aunque estén presentes en la molécula. Las [Técnicas de determinación de estructuras](lexicon-technique) no poden, en general, resolver las coordenadas de los átomos de hidrógeno.  
 
-As etiquetas da barra de estado, debaixo do marco de visualización, listan os distintos elementos químicos polos seus símbolos e cores.  
-**Consello**: Mater o indicador sobre os símbolos dos elementos para mostar o nome completo do átomo.
+Las etiquetas de la barra de estado, debajo del marco de visualización, listan los distintos elementos químicos por sus símbolos y colores.  
+**Consejo**: Matener el indicador sobre los símbolos de los elementos para mostar el nome completo del átomo.
