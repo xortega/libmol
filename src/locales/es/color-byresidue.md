@@ -1,12 +1,12 @@
-# Colorear segundo o residuo
-Un residuo agrupa átomos que constitúen unha subunidade dunha cadea (ou polímero) nun modelo molecular. Cada residuo (ou grupo de residuos que se parezan químicamente) ten unha cor específica.
+# Colorear según el residuo
+Un residuo agrupa átomos que constituyen una subunidad de una cadena (o polímero) en un modelo molecular. Cada residuo (o grupo de residuos que se parezcan químicamente) tiene un color específico.
 
-Existen distintos tipos de residuos dependendo na natureza bioquímica da cadea.  
-Os principais grupos son:
-* [aminoácidos](lexicon-aminoacid), que forman parte das proteínas,
-* [nucleótidos](lexicon-nucleotide), que forman parte dos [ácidos nucleicos](lexicon-nucleic) (ADN or ARN).
+Existen distintos tipos de residuos dependiendo de la naturaleza bioquímica de la cadena.  
+Los principales son:
+* [aminoácidos](lexicon-aminoacid), que forman parte de las proteinas,
+* [nucleótidos](lexicon-nucleotide), que forman parte de los [ácidos nucleicos](lexicon-nucleic) (ADN or ARN).
 
-Outros tipos de residuos, como os [ligandos](lexicon-ligand) (glícidos, grupos prostéticos, ións, etc) e solventes (auga) tamén poden formar parte dos modelos moleculares.
+Otros tipos de residuos, como los [ligandos](lexicon-ligand) (glúcidos, grupos prostéticos, iones, etc) y solventes (auga) también pueden formar parte de los modelos moleculares.
 
-As etiquetas da barra de estado, debaixo da barra de visualización, especifican todos os residuos presentes no modelo polos seus ID e as súas correspondentes cores.  
-**Consello**: Manter o indicador sobre o ID dun resíduo mostra o seu nome estendido (se esta información está presente no ficheiro do modelo).
+Las etiquetas de la barra de estado, debajo de la barra de visualización, especifican todos los residuos presentes en el modelo con sus ID e sus correspondientes colores.  
+**Consejo**: Mantenr el indicador sobre el ID de un residuo muestra su nombre extendido (si esta información figura en fichero del modelo).
