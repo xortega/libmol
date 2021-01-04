@@ -10,7 +10,7 @@ Símbolo | Código de color | Elemento
 **S** | ![Azufre](static/img/s.png) | **Azufre** 
 **P** | ![Fósforo](static/img/p.png) | **Fósforo** 
 
-**Cuidado**, la mayoría de los modelos macromoleculares no incluyen **hidróxegos**, aunque estén presentes en la molécula. Las [Técnicas de determinación de estructuras](lexicon-technique) no poden, en general, resolver las coordenadas de los átomos de hidrógeno.  
+**Cuidado**, la mayoría de los modelos macromoleculares no incluyen **hidrógenos**, aunque estén presentes en la molécula. Las [Técnicas de determinación de estructuras](lexicon-technique) no poden, en general, resolver las coordenadas de los átomos de hidrógeno.  
 
 Las etiquetas de la barra de estado, debajo del marco de visualización, listan los distintos elementos químicos por sus símbolos y colores.  
 **Consejo**: Mantener el indicador sobre los símbolos de los elementos para mostrar el nombre completo del átomo.
