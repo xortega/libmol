@@ -10,4 +10,4 @@ Las principales cadenas identificadas son:
 **Ejemplo: proteina formada por 4 cadenas:**  
 ![Hemoglobina coloreada por cadenas](static/img/colochain.png)    
 Las etiquetas de la barra de estado, debajo del marco de visualización, listan las distintas cadenas por sus IDs y sus respectivos colores.  
-**Consejo**: Mantener el indicador sobre el nombre de las cadenas para mostrar el nombre biológico completo y relevante de la cadena (si este figura en el ficheiro molecular)
+**Consejo**: Mantener el indicador sobre el nombre de las cadenas para mostrar el nombre biológico completo y relevante de la cadena (si este figura en el fichero molecular)
